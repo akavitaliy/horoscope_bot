@@ -1,0 +1,1 @@
+bot: ruby goro-bot.rb
